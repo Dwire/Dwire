@@ -9,7 +9,8 @@ I strive to bring a combination of exerpiece, work ethic and curiostiy to proble
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Dwire&theme=radical&hide_border=true)
 
-
+## Currently working on...
+- HoboPickle: [A Hoboken pickleball attendence managament platform](https://hobopickle.com/)
 ## Connect With Me
 
-- LinkedIn: [[linkedin.com/in/yourname](https://www.linkedin.com/in/gregory-dwyer-489894102/)]
+- LinkedIn: [linkedin.com/in/gregory-dwyer](https://www.linkedin.com/in/gregory-dwyer-489894102/)
