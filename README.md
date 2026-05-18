@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hey, I’m Dwire 👋
 
-<!--
-**Dwire/Dwire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer focused on building clean, useful software and continuously sharpening my craft.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- Build practical applications and tools
+- Write maintainable, readable code
+- Explore new technologies and ship improvements consistently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech I work with
+- **Languages:** JavaScript, TypeScript, Python, SQL
+- **Frameworks/Tools:** Node.js, React, Git, GitHub Actions
+- **Focus areas:** Full-stack development, automation, developer productivity
+
+## 🌱 Right now
+- Improving architecture and code quality habits
+- Learning deeper system design and cloud workflows
+- Expanding open-source contributions
+
+## 🤝 Let’s connect
+- Open to collaboration on interesting projects
+- Feel free to explore my repositories and follow my work
+
+---
+_Thanks for stopping by._
