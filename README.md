@@ -1,13 +1,15 @@
-# Hey, I'm Greg 👋
+# Hi there 👋
 
-Full stack software engineer focused on building reliable, scalable product systems across backend infrastructure, mobile apps, web platforms, and data pipelines.
+Full stack software engineer focused on building reliable, scalable product systems across backend infrastructure, mobile apps, web platforms, and data pipelines. 
 
-I enjoy turning messy or fragile workflows into reusable systems — whether that’s:
-- architecting async backend services
-- building production mobile experiences in Flutter
-- designing resilient ingestion pipelines
-- improving developer velocity through reusable abstractions
-- or shipping growth and engagement features end-to-end
+I enjoy building products that make complex systems feel simple and reliable for the people using them.
+
+Most of my work focuses on:
+- building backend systems that keep user experiences fast, reliable, and scalable
+- creating mobile and web interfaces that reduce friction and feel intuitive
+- improving privacy, trust, and engagement in social products
+- designing automation and data pipelines that support better product experiences
+- and building reusable systems that help teams ship features faster and more safely
 
 Most of my recent work has centered around:
 - distributed backend systems
@@ -19,6 +21,8 @@ Most of my recent work has centered around:
 - product reliability and scalability
 
 ---
+
+(https://streak-stats.demolab.com?user=Dwire&theme=radical&hide_border=true)
 
 ## What I Work With
 
