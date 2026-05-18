@@ -22,7 +22,7 @@ Most of my recent work has centered around:
 
 ---
 
-(https://streak-stats.demolab.com?user=Dwire&theme=radical&hide_border=true)
+![GitHub Stats](https://streak-stats.demolab.com?user=Dwire&theme=radical&hide_border=true)
 
 ## What I Work With
 
