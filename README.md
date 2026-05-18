@@ -23,6 +23,7 @@ Most of my recent work has centered around:
 ---
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Dwire&theme=radical&hide_border=true)
+[![Dwire's GitHub stats](https://github-readme-stats.vercel.app/api?username=dwire)](https://github.com/dwire/github-readme-stats)
 
 ## What I Work With
 
