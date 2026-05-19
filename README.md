@@ -4,7 +4,7 @@ I am a Full stack software engineer focused on the human experience. Working bac
 
 My philosophy is simple: Be a positive force. Nobody wakes up wanting to underperform in their professional or personal life.
 
-I strive to bring a combination of experpiece, work ethic and curiosity to problem solving. 
+I strive to bring a combination of experience, work ethic and curiosity to problem solving. 
 
 
 ![GitHub Stats](https://streak-stats.demolab.com?user=Dwire&theme=radical&hide_border=true)
