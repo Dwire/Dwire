@@ -18,6 +18,10 @@ I strive to bring a combination of experience, work ethic and curiosity to probl
 <img width="50" height="50" alt="Firebase icon" title="Firebase" src="https://github.com/user-attachments/assets/ccfefbe4-510f-45aa-b605-deacfc67c80c" />
 <img width="50" height="50" alt="PostgresSQL icon" title="PostgresSQL" src="https://github.com/user-attachments/assets/3f37aa8d-932d-4936-be22-8a0270502888" />
 <img width="50" height="50" alt="GraphQL icon" title="GraphQL" src="https://github.com/user-attachments/assets/16cb7a65-c491-4994-adc5-92651b56b37a" />
+<img width="50" height="50" alt="HTML5 icon" title="HTML5" src="https://github.com/user-attachments/assets/fae35d55-a317-40d7-bbb1-20277b877483" />
+<img width="50" height="50" alt="CSS3 icon" title="CSS3" src="https://github.com/user-attachments/assets/1332e3ec-9477-4520-9cb8-0aebbfc0b8d6" />
+
+
 
 
 
