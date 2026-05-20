@@ -23,10 +23,6 @@ I strive to bring a combination of experience, work ethic and curiosity to probl
 
 
 
-
-
-![GitHub Stats](https://streak-stats.demolab.com?user=Dwire&theme=radical&hide_border=true)
-
 ## Currently working on...
 - HoboPickle: [A Hoboken pickleball attendence managament platform](https://hobopickle.com/)
 ## Connect With Me
